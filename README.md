@@ -17,7 +17,7 @@ But currently, i didn't use **REDIS** because i didn't have time to learn it yet
 firstly you run the docker with:
 
 ```bash
-docker composer up -d
+docker compose up -d
 ```
 
 then you go to **Postman**/**Thunder Client**/**Insomnia** depends what you like.
@@ -88,7 +88,7 @@ Tapi sekarang, saya tidak menggunakan **REDIS** karena tidak mempunyai waktu unt
 pertama kamu jalankan docker dengan perintah:
 
 ```bash
-docker composer up -d
+docker compose up -d
 ```
 
 lalu kamu pergi ke **Postman**/**Thunder Client**/**Insomnia** sesuai yang kamu suka.
