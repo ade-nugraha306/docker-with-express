@@ -61,7 +61,7 @@ And if it **Success** the response should be:
 
 ```json
 {
-  "status": "success"
+    "message": "Login successful!"
 }
 ```
 
@@ -132,6 +132,6 @@ Jika berhasil maka respon nya akan seperti ini:
 
 ```json
 {
-  "status": "success"
+    "message": "Login successful!"
 }
 ```
